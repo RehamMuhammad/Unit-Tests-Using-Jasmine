@@ -1,0 +1,16 @@
+{
+  "name": "second-one",
+  "version": "1.0.0",
+  "description": "Second Unit Testing Lecture ITI Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec jasmine"
+  },
+  "author": "Roro",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.10.0",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
